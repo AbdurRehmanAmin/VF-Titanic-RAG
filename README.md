@@ -91,10 +91,7 @@ titanic-dataset-explorer/
 ├── titanic.csv           # Titanic dataset
 ├── requirements.txt      # Python dependencies
 ├── .env                 # Environment variables (create this)
-├── .env.example         # Environment template
 ├── .gitignore           # Git ignore rules
-├── assets/              # Demo and screenshots
-│   └── demo.gif         # Project demonstration
 └── README.md           # This file
 ```
 
