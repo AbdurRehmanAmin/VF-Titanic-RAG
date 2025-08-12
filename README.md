@@ -2,9 +2,7 @@
 
 An intelligent Streamlit application that makes the famous Titanic dataset queryable using Google Gemini AI. Ask questions in natural language and get instant statistical analysis and visualizations about the passengers aboard the RMS Titanic.
 
-![Demo](assets/demo.gif)
-
-*Interactive demo showing natural language queries and AI-generated analysis*
+*Interactive demo showing natural language queries and AI-generated analysis here: https://drive.google.com/file/d/1uUmmLiNT84RWLz1j2NIFS9QK3iERblWn/view?usp=sharing*
 
 ![Titanic Explorer Demo](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
